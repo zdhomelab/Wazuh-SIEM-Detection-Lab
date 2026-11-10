@@ -1,9 +1,9 @@
-
+![ban](screenshots/zdb.png)
 # Wazuh SIEM Detection Lab
 
 **Centralized Windows and DNS monitoring for an Active Directory homelab, with validated detections and MITRE ATT&CK mapping.**
 
-![ban](screenshots/zdb.png)
+
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-4.14-0E7FC0?style=flat-square)
 ![Windows Server 2025](https://img.shields.io/badge/Windows%20Server-2025-0078D4?style=flat-square)
