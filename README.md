@@ -122,8 +122,8 @@ auditpol /set /subcategory:"User Account Management" /success:enable /failure:en
 | Pi-hole rule (logic) | `wazuh-logtest` with a real blocked line | Rule 100100 matched, alert generated |
 | Pi-hole rule (live) | Blocked lookup from WC01, search `rule.id: 100100` | Pending confirmation |
 
-![Failed logon alert details](screenshots/08-bad-password-event.png)
-![Lockout event and rule fields](screenshots/12-lockout-rule.png)
+![Failed logon alert details](screenshots/06-bad-password-event.png)
+![Lockout event and rule fields](screenshots/05-rule-60115-lockout.png)
 
 ## Issues Encountered
 
