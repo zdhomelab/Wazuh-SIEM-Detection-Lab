@@ -61,7 +61,6 @@ flowchart LR
 4. **Pi-hole integration:** added Pi-hole's log as a `localfile` source on the Pi-hole01 agent and wrote a custom rule for blocked lookups.
 5. **Validation:** used `wazuh-logtest` to check rule matches, then searched the dashboard for the live alerts.
 
-Full step-by-step guide: [`docs/Wazuh_SIEM_Implementation_Full.pdf`](docs/Wazuh_SIEM_Implementation_Full.pdf)
 
 ## Configuration Notes
 
@@ -161,8 +160,8 @@ SIEM deployment and agent management, Windows event log analysis, Active Directo
 
 ## Related Projects
 
-- [Pi-hole DNS Filtering & Visibility Lab](https://github.com/zdhomelab/Pi-hole-DNS-Security-Lab): the DNS filtering layer that feeds this SIEM.
-- [Active Directory & Windows Security Lab](https://github.com/zdhomelab/AD-WS-Lab): the domain environment both projects build on.
+- [Pi-hole DNS Filtering & Visibility Lab](https://github.com/zdhomelab/Pi-Hole-DNS-Lab.git): the DNS filtering layer that feeds this SIEM.
+- [Active Directory & Windows Security Lab](https://github.com/zdhomelab/AD-WS-Lab.git): the domain environment both projects build on.
 
 ## Disclaimer
 
