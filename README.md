@@ -148,9 +148,6 @@ auditpol /set /subcategory:"User Account Management" /success:enable /failure:en
 ```
 Wazuh-SIEM-Detection-Lab/
 ├── README.md
-├── docs/
-│   ├── infographic.png
-│   └── Wazuh_SIEM_Implementation_Full.pdf
 ├── configs/
 │   ├── pihole_rules.xml
 │   └── enrollment-examples.md
