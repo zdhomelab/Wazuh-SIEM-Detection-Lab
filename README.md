@@ -11,7 +11,7 @@
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-DNS-96060C?style=flat-square)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-E7352B?style=flat-square)
 
-![Project infographic](screenshots/Infographic.png)
+![Project infographic](screenshots/infographic.png)
 
 ## Summary
 
